@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+
+# Gradle
+.gradle/
+build/
+
+# Saida de compilacao do Eclipse/VS Code
+bin/
+
+# Variaveis de ambiente locais (use .env.example como modelo)
+.env
+
+# Config local do Claude Code
+.claude/settings.local.json
